@@ -1,3 +1,9 @@
+python-tldap (0.3.15-1) unstable; urgency=medium
+
+  * New upstream version.
+
+ -- Brian May <bam@debian.org>  Sun, 10 Jan 2016 14:38:18 +1100
+
 python-tldap (0.3.14-1) unstable; urgency=medium
 
   * Don't include docs directory in package. Closes: #804643.
