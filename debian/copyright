@@ -1,7 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: python-tldap
 Upstream-Contact: Brian May <bam@debian.org>
-Source: https://github.com/Karaage-Cluster/python-tldap
+Source: https://pypi.python.org/pypi/python-tldap
 
 Files: *
 Copyright: 2010-2014, Brian May <bam@debian.org>
