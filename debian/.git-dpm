@@ -6,3 +6,6 @@ dcfb7ad8cda12798b07740b07cba69d8a8f723c8
 python-tldap_0.3.14.orig.tar.gz
 b42c054acff85a0ec78dc4a62ff69d65e32c3568
 104911
+debianTag="debian/%e%v"
+patchedTag="patched/%e%v"
+upstreamTag="upstream/%e%u"
