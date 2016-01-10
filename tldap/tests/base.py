@@ -16,6 +16,7 @@
 # along with python-tldap  If not, see <http://www.gnu.org/licenses/>.
 
 import tldap
+import unittest
 
 LDAP = {
     'default': {
@@ -33,15 +34,16 @@ LDAP = {
 tldap.setup(LDAP)
 
 
-class LdapTestCase(object):
+class LdapTestCase(unittest.TestCase):
 
     def setUp(self):
         super(LdapTestCase, self).setUp()
         server = tldap.test.slapd.Slapd()
         server.set_port(38911)
+
+        def cleanup(server):
+            server.stop()
+        self.addCleanup(cleanup, server)
+
         server.start()
         self.server = server
-
-    def tearDown(self):
-        super(LdapTestCase, self).tearDown()
-        self.server.stop()
