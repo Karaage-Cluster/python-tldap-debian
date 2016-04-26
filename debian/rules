@@ -18,5 +18,4 @@ override_dh_clean:
 
 .PHONY: override_dh_auto_test
 override_dh_auto_test:
-	flake8 .
 	dh_auto_test -- --system=custom --test-args="{interpreter} setup.py test"
