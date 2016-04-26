@@ -1,11 +1,11 @@
 # see git-dpm(1) from git-dpm package
-ea6b8283a574d9a09f85b603b7ec1959ad86fbe2
-ea6b8283a574d9a09f85b603b7ec1959ad86fbe2
-ea6b8283a574d9a09f85b603b7ec1959ad86fbe2
-ea6b8283a574d9a09f85b603b7ec1959ad86fbe2
-python-tldap_0.3.16.orig.tar.gz
-1aaa139a792113afba6a433a1b4e11f615aa9d22
-107196
+962fbc02e226ad4e92e7179992bcc6e674acbb4e
+962fbc02e226ad4e92e7179992bcc6e674acbb4e
+962fbc02e226ad4e92e7179992bcc6e674acbb4e
+962fbc02e226ad4e92e7179992bcc6e674acbb4e
+python-tldap_0.3.17.orig.tar.gz
+46b9b310e620d6c688fcf3538cbe15157d2c0a28
+105098
 debianTag="debian/%e%v"
 patchedTag="patched/%e%v"
 upstreamTag="upstream/%e%u"
