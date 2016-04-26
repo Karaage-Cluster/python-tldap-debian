@@ -66,6 +66,7 @@ tldap/options.py
 tldap/query.py
 tldap/query_utils.py
 tldap/transaction.py
+tldap/tree.py
 tldap/utils.py
 tldap/backend/__init__.py
 tldap/backend/base.py
