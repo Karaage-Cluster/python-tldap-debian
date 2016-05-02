@@ -1,10 +1,10 @@
 Metadata-Version: 1.1
 Name: python-tldap
-Version: 0.3.17
+Version: 0.3.18
 Summary: High level python LDAP Library
 Home-page: https://github.com/Karaage-Cluster/python-tldap
 Author: Brian May
-Author-email: brian@v3.org.au
+Author-email: brian@linuxpenguins.xyz
 License: GPL3+
 Description: python-tldap
         ============

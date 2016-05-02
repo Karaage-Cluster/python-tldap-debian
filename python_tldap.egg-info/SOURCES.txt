@@ -6,12 +6,15 @@ CHANGES.rst
 COPYING.txt
 MANIFEST.in
 README.rst
-VERSION.txt
 pylint.conf
+requirements.txt
 run_tests.sh
 setup.py
+tox.ini
 docs/Makefile
 docs/__init__.py
+docs/changes.rst
+docs/conf.orig.py
 docs/conf.py
 docs/future.rst
 docs/getting_started.rst
@@ -66,7 +69,9 @@ tldap/options.py
 tldap/query.py
 tldap/query_utils.py
 tldap/transaction.py
+tldap/tree.py
 tldap/utils.py
+tldap/version.py
 tldap/backend/__init__.py
 tldap/backend/base.py
 tldap/backend/fake_transactions.py

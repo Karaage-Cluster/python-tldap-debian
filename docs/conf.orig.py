@@ -1,5 +1,4 @@
 # FILE COPIED FROM conf.orig.py; DO NOT CHANGE
-# FILE COPIED FROM conf.orig.py; DO NOT CHANGE
 # -*- coding: utf-8 -*-
 #
 # python-tldap documentation build configuration file, created by
