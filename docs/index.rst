@@ -6,6 +6,9 @@
 python-tldap's documentation
 ============================
 
+:Date: |today|
+:Version: |version|
+
 Contents:
 
 .. toctree::
@@ -14,6 +17,7 @@ Contents:
     getting_started
     history
     future
+    changes
     reference
 
 Indices and tables
