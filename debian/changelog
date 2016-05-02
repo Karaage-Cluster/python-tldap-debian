@@ -1,3 +1,9 @@
+python-tldap (0.3.18-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Brian May <bam@debian.org>  Tue, 03 May 2016 09:21:23 +1000
+
 python-tldap (0.3.17-1) unstable; urgency=medium
 
   * New upstream version.
